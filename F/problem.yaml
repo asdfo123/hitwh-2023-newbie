@@ -1,0 +1,6 @@
+# Problem exported by DOMjudge on 2023-12-23T23:09:20+08:00
+name: 'Hurry,Hurry,Hurry!Route to Building M!'
+validation: custom
+limits:
+    memory: 256
+    output: 256

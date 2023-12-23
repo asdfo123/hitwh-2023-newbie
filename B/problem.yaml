@@ -1,0 +1,5 @@
+# Problem exported by DOMjudge on 2023-12-23T23:12:47+08:00
+name: 'Storm a City'
+limits:
+    memory: 256
+    output: 256
