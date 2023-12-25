@@ -1,5 +1,9 @@
 # hitwh-2023-newbie
-Materials of HITWH 2023 ACM newbie programming contest.
+Materials of HITWH 2023 ACM newbie programming contest, including **Problem data**, **std** and **Scoreboard**.
+
+Among them, **Problem data** and **Scoreboard** are exported by **Domjudge**, and **std** is provided by each author of the problem.
 
 # 哈尔滨工业大学（威海）2023新生赛
-这是哈尔滨工业大学（威海）2023 ACM 新生赛的资料
+哈尔滨工业大学（威海）2023 ACM 新生赛的资料，包括题目数据、std以及榜单。
+
+其中题目数据、榜单由Domjudge导出，std由各命题人编写。
